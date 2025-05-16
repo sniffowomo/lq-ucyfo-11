@@ -7,9 +7,10 @@
 
 # Booty Sniff Dirs
 
-Booty | Wat 
-:--: | :--:
-[`fo`](./fo/) | MainFoundry works here 
-[`REF`](./REF/) | Contracts which are references our tutorials downloads  
-[`waz`](./waz/) | walz made here
-[`tezt`](./tezt/) | Main tezts here
+|       Booty       |                          Wat                           |
+| :---------------: | :----------------------------------------------------: |
+|   [`fo`](./fo/)   |              MainFoundry works here - old              |
+|  [`fo2`](./fo2/)  |  Current work with foundry will be done in this repo   |
+|  [`REF`](./REF/)  | Contracts which are references our tutorials downloads |
+|  [`waz`](./waz/)  |                     walz made here                     |
+| [`tezt`](./tezt/) |                    Main tezts here                     |
